@@ -1,0 +1,8 @@
+Como TAW no permite (o no deja claro como hacerlo) hacer un analisis de un archivo html,
+elijo Examinator para hacer el analisis de mi propio sitio web.
+
+En esta carpeta se encunetran capturas de pantalla de los resultados obtenidos para distintas
+páginas de mi sitio web, además del ejercico práctico.
+
+Gracias por leer y un saludo,
+Francisco 
